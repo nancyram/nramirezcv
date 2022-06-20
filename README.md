@@ -1,4 +1,3 @@
-# nramirezcv
 <!DOCTYPE html>
 <html>
   <head>
